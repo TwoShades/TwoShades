@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TwoShades a.k.a. Sam
-- 👀 I’m interested in AI, Mobile Apps, Web Dev, and other things :)
+- 👀 I’m interested in Game Development, Mobile Apps and other things :)
 - 🌱 I’m currently learning Mobile Application Programming at John Abbott College in Montreal, Canada.
 - 💞️ I’m looking for career opportunities in mobile design and development.
 - 📫 How to reach me:
