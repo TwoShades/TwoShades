@@ -2,8 +2,8 @@ Mobile App Developer | Android & iOS | Game Developer | Java, C#, Swift
 
 - 👋 Hi, I’m @TwoShades a.k.a. Sam
 - 👀 I’m interested in Game Development, Mobile Apps and other things :)
-- 🌱 I’m currently learning Mobile Application Programming at John Abbott College in Montreal, Canada.
-- 💞️ I’m looking for career opportunities in mobile design and development.
+- 🌱 I’ve recently acquired my diploma for Mobile Application Development at John Abbott College in Montreal, Canada.
+- 💞️ I’m looking for career opportunities in mobile design and development, video game development, infosec security.
 - 📫 How to reach me:
 2Shades_#0061 on Discord.
 https://www.linkedin.com/in/sam-rivest-068658171/
