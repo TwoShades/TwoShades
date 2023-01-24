@@ -37,7 +37,7 @@ SQL/MySQL - Join, Union, Indexes, Normalization, Triggers, Views, Aggregations
 MongoDB - Find, Aggregation Pipeline, Indexing
 
 🖼️ Design:
-Photoshop - Basics of lighting, Crop, Removing Background
+Photoshop - Basics of lighting, Crop, Removing Background <br>
 Illustrator - Creation of Logo using vectors
 Adobe XD - Capacity to build a functional mockup of an application
 
