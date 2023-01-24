@@ -34,7 +34,7 @@ React.js - Node Package Manager, API design, Virtual hosting,
 
 💾 Database: <br>
 SQL/MySQL - Join, Union, Indexes, Normalization, Triggers, Views, Aggregations <br>
-MongoDB - Find, Aggregation Pipeline, Indexing <br><br>
+MongoDB - Find, Aggregation Pipeline, Indexing <br>
 
 🖼️ Design: <br>
 Photoshop - Basics of lighting, Crop, Removing Background <br>
