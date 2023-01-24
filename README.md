@@ -6,7 +6,7 @@ Mobile App Developer | Android & iOS | Game Developer | Java, C#, Swift
 - 💞️ I’m looking for career opportunities in mobile design and development, video game development, infosec security.
 - 📫 How to reach me:
 2Shades_#0061 on Discord.
-https://www.linkedin.com/in/sam-rivest-068658171/
+https://www.linkedin.com/in/sam-rivest
 
 📱 Mobile Application Development:
 +1 Android - Jetpack Compose, Data Binding, Custom RecyclerView, Dependency Injection, SQLite, Firebase, Google Map, Retrofit, Navigation, Activity Lifecycle,
