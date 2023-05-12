@@ -15,12 +15,12 @@ https://www.linkedin.com/in/sam-rivest
 📜 Programming languages: <br>
 +1 Java - OOP concepts, Collections and Generics, Hashing, Exception handling, Layout Managers, Serialization and I/O, Multithreading, Spring, Hibernate (REST) <br>
 +1 Swift - Protocols, Closures, TypeCasting, Optional Chaining/Unwrapping, Extentions, TableViews <br>
-C# - OOP concepts, Exception handling, Generics, Serializable <br>
++1 C# - OOP concepts, Exception handling, Generics, Serializable <br>
 Python - Tuples, Modules, Exceptions, Database Access, Web Services using Django and Node.js
 
 🎮 Game Development: <br>
-Unity - Scene management, GameObjects, Components, 2D/3D graphics, Animation, Physics, Particles, Audio <br>
-C# - Object-oriented programming, Classes, Interfaces, Inheritance, Events, Coroutines, ScriptableObjects
++1 Unity - Scene management, GameObjects, Components, 2D/3D graphics, Animation, Physics, Particles, Audio <br>
++1 C# - Object-oriented programming, Classes, Interfaces, Inheritance, Events, Coroutines, ScriptableObjects
 
 🕵️ Cybersecurity: <br>
 Kali Linux - Nmap, Dmity, DNSenum, Nikto, Metasploit Framework, OpenVAS, WhatWeb, BurpSuite, Hydra, GoBuster
